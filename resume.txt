@@ -1,0 +1,53 @@
+Sherif Elfiky
+Seaside, CA | (831) 383-8653 | sherifelfiky1@gmail.com | LinkedIn
+EDUCATION
+University of California San Diego Mar 2025
+B.S., Computer Engineering
+• Coursework: Advanced Data Structures, Design and Analysis of Algorithms, Software Engineering, Probabilistic Models, Machine 
+Learning Algorithms, Discrete and Continuous Optimization, Web Development
+Monterey Peninsula College Jun 2022
+A.S., Math, Physics, Computer Science
+EXPERIENCE
+Jascot Development Sep 2025 - Present
+Software Engineer Intern Seaside, Ca (remote)
+• Built backend services with supabase and Javascript, integrating APIs and LLMs for faster prototyping
+• Designed and implemented account lifecycle flows including signup, login, password reset, and account deletion
+• Debugged production issues across auth, data access, and API layers to improve reliability and user experience
+Monterey Peninsula College Feb 2022 - Jul 2022
+Computer Science Tutor Monterey, Ca
+• Administered 1 hour Computer Science study sessions to improve scores on tests
+• Addressed students’ confusions on various practice problems
+• Increased students scores on tests by 10 percent
+PROJECTS
+News Verified Python, React, Next.js, FastAPI, PyTorch, BeautifulSoup4, Machine Learning
+• Developed an AI powered tool that summarizes and analyzes articles for bias
+• Integrated BART models for summarization and zero shot classification using Hugging Face Transformers
+• Built RESTful APIs with FastAPI and connected them to a responsive React frontend for smooth real time feedback
+• Created responsive UI with loading states, error handling, and live classification results with confidence scoring visual ization
+• Implemented OAuth 2.0 with Google Sign In via NextAuth.js to ensure secure, authenticated access
+• Deployed automated development and deployment workflows for cross platform compatibility
+Video clipping automation pipeline Puppeteer, Node.js, Express, MongoDB, Youtube Data API
+• Built an end to end Node.js system that orchestrates headless browser workers (Puppeteer) to automate multi-step web workflows 
+where no public API was available.
+• Designed a job queue with Express and MongoDB, exposing REST endpoints for job submission and tracking state transitions 
+(queued, processing, done) for observability and recovery.
+• Implemented resilient automation with selector timeouts, structured retries, and per job page resets, enabling workers to process 
+multiple jobs per browser session without manual authentication.
+• Integrated YouTube Data API to discover source content and enqueue jobs incrementally, enabling continuous, rate limited clip 
+generation.
+• Documented production tradeoffs (polling vs push queues, browser reuse vs isolation, input typing vs direct value setting) and paths 
+to scale.
+DoorDash ETA Python, Pandas, SciKit-Learn, Keras
+• Utilizes 197k observations and 16 features to predict DoorDash wait times
+• Compared multiples machine learning models such as linear regression, and neural networks to predict wait times
+• Created a custom time to deliver target feature by transforming timestamp columns into numerical values for regression modeling
+• Applied hyperparameter tuning to increase reliability of predictions
+• Developed and tuned deep neural networks using TensorFlow/Keras with ReLU, ELU, and Leaky ReLU activations, incorporating 
+early stopping and grid search
+• Found diminishing returns from increasing model complexity, leading to conclusions about missing contextual features (e.g., weather, 
+restaurant-specific delays) affecting ETA accuracy
+SKILLS & ACTIVITIES
+• Programming Languages: Java, Python, C++, JavaScript/TypeScript, HTML, CSS, SQL
+• Tools: Gradle, Bash, Github Actions
+• Libraries/Frameworks: React, JavaFX, JUnit, Pandas, NumPy, Scikit-Learn, Keras, Next.js, Node.js, Express, REST APIs, 
+PostgreSQL, MySQL
